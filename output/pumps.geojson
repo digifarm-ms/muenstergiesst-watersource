@@ -1,0 +1,845 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.521297,
+          51.918638
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "addr:full": "Albachtener Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.543774,
+          51.9527
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "addr:full": "Schwerinerstr 25 (Art Parkbucht)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.56499,
+          51.972357
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "addr:full": "Dieckmannstr. 6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.566887,
+          51.964894
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "addr:full": "Dieckmannstr. 131 (Höhe Mosaikschule)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.569535,
+          51.975344
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "addr:full": "Toppheideweg Platz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.621024,
+          51.968534
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "addr:full": "Heerdestraße 8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.621727,
+          51.966622
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "addr:full": "Münzstraße 19 (gegenüber)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5992,
+          51.99376
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "addr:full": "Westhoffstr. 116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5964,
+          51.9926
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "addr:full": "Grotemeyerstr. 23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.598041,
+          51.992005
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "addr:full": "Ohmweg 19 (gegenüber  Bushaltestelle Eimermacherweg C)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.596616,
+          51.996383
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "addr:full": "Langebusch 25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59172,
+          51.99657
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "addr:full": "Langeworth 53-57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.594597,
+          52.000707
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "addr:full": "Brüningheide 89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59291,
+          51.99222
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "addr:full": "Deitersweg 15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.648229,
+          51.989109
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "addr:full": "Hoher Heckenweg 251 (Höhe Norbertschule) "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.648178,
+          51.991769
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "addr:full": "Hoher Heckenweg (Höhe Morthorststr.66) "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.645486,
+          51.967146
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "addr:full": "Staufenstraße 61"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.643527,
+          51.965397
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "addr:full": "Staufenstraße 27 (vorm Spielplatz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641808,
+          51.965751
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "addr:full": "Auf der Horst 32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64627,
+          51.96477
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "addr:full": "Erphostraße 40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64481,
+          51.96549
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "addr:full": "Burchardstraße 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64141,
+          51.96918
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "addr:full": "Alsenstraße 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.639778,
+          51.960148
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "addr:full": "Johanniterstr./Ecke Schwellingstr. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.655247,
+          51.96414
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "addr:full": "Eugen Müller Str. 19 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.657874,
+          51.964926
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "addr:full": "Niesertstr. 22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.656616,
+          51.964495
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "addr:full": "Niesertstr 9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.658143,
+          51.965898
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "addr:full": "Propsteistraße 60 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.66195,
+          51.95597
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "addr:full": "Lohausweg 24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.643373,
+          51.953409
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "addr:full": "Emdener Str. 51/ Hansaring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641515,
+          51.953265
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "addr:full": "Dortmunder/Hansaring "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641816,
+          51.954652
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "addr:full": "Dortmunder/Leerestr."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.640366,
+          51.95374
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "addr:full": "Meppener-/Papenburger Str.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.639031,
+          51.954388
+        ]
+      },
+      "properties": {
+        "id": 33,
+        "addr:full": "Lingener-/Meppener Str."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.640698,
+          51.953211
+        ]
+      },
+      "properties": {
+        "id": 34,
+        "addr:full": "Papenburger-/Hansaring 31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.638097,
+          51.952983
+        ]
+      },
+      "properties": {
+        "id": 35,
+        "addr:full": "Soester Str./Hansaring "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64967,
+          51.952113
+        ]
+      },
+      "properties": {
+        "id": 36,
+        "addr:full": "Schillerstr. 161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.638036,
+          51.953707
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "addr:full": "Soester Str 50 (vor dem Spielplatz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.644251,
+          51.954951
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "addr:full": "Schillerstr/Ecke Hansaplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.643181,
+          51.953445
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "addr:full": "Emdener Str. 51/ Hansaring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.610025,
+          51.93119
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "addr:full": "Scharnhorststr. 86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.614343,
+          51.953265
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "addr:full": "Scharnhorststr. 49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.622841,
+          51.953338
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "addr:full": "Kreuzung Norbertstr/Hermanstr/Antoniusstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.67894,
+          51.93365
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "addr:full": "Wilhelm-Holthausweg 49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.630721,
+          51.946061
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "addr:full": "Friedrich-Ebert-Str. 121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.626676,
+          51.944971
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "addr:full": "Dahlweg 45 (Hermannschule)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.614288,
+          51.941155
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "addr:full": "Grüner Grund (Höhe 39, vorschlag von H.Lau)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613461,
+          51.94126
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "addr:full": "Grüner Grund 40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613486,
+          51.940919
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "addr:full": "Grüner Grund 46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.614213,
+          51.940784
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "addr:full": "Grüner Grund 47 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.614102,
+          51.940082
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "addr:full": "Grüner Grund 61"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613165,
+          51.939925
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "addr:full": "Grüner Grund 68/ Inselbogen 29 seitlich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.622033,
+          51.934554
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "addr:full": "Spichernstr. 30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.621945,
+          51.949099
+        ]
+      },
+      "properties": {
+        "id": 53,
+        "addr:full": "Geistr. 33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62039,
+          51.9389
+        ]
+      },
+      "properties": {
+        "id": 54,
+        "addr:full": "Elsässerstraße 21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61839,
+          51.94604
+        ]
+      },
+      "properties": {
+        "id": 55,
+        "addr:full": "Prinz-Eugen Str. 45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.594775,
+          51.93392
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "addr:full": "Tresckowstraße 10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.626347,
+          51.921668
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "addr:full": "Vennheideweg 38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.649246,
+          51.903196
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "addr:full": "Max Winkelmann Straße 41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6381,
+          51.91204
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "addr:full": "Schürgeist 17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.612439,
+          51.975403
+        ]
+      },
+      "properties": {
+        "id": 60,
+        "addr:full": "Grevener Straße 122 zwischen zwei Baumscheiben"
+      }
+    }
+  ]
+}
